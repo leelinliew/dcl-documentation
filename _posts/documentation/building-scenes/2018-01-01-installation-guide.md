@@ -14,7 +14,7 @@ To build scenes for Decentraland you will need to install the Command Line Inter
 
 The CLI allows you to compile and preview your scene in an "off-chain" development environment. After testing your scene locally, you can use the CLI to upload your content to IPFS, linking it with your LAND.
 
-为了在 Decentraland 上构建场景，您需要先安装命令行接口（CLI）。
+以在 Decentraland 上构建场景，您需要先安装命令行接口（CLI）。
 
 CLI 允许您在“链下”的开发环境中编译和预览场景。场景在本地测试后，您可以使用 CLI 将内容上传到 IPFS，并将其链接到自己的土地（LAND）上。
 
