@@ -34,15 +34,15 @@ set_order: 8
 
 ## 中级示例
 
-### Sound Support
+### 声音支持
 
 这个例子的特点是一个发出[声音]({{ site.baseurl }}{% post_url /sdk-reference/2018-01-21-scene-content-guide %})的实体，注意音量是如何随着距离的增加而减小的。它还包括一个动态的 GLTF 对象和一个随机改变颜色的地板。[链接](https://github.com/decentraland/sample-scene-sound-support)
 
-### Video Support
+### 视频支持
 
 在此示例中，您可以与两个视频播放器进行交互。一个将视频加载到场景的资源中，另一个使用外部源来加载。您还可以暂停、停止和更改视频播放器的音量。 [链接](https://github.com/decentraland/sample-scene-video-support)
 
-### Multiplayer Content
+### 多人游戏
 
 一个基于初级示例中门的例子，您可以通过打开和关闭门来与门互动，而另一个玩家则在同一个房间，可以看到门状态的改变。构建这个简单的示例是为了让您了解多用户环境是如何工作的，其中有多个用户与同一实体交互。 [链接](https://github.com/decentraland/sample-scene-server)
 
